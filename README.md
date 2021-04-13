@@ -1,7 +1,14 @@
 # Importance of Data Normalization in Deep Learning
 
-* [Click here](https://youtu.be/R5RxPkqXd1g)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=R5RxPkqXd1g" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/R5RxPkqXd1g?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Importance of Data Normalization in Deep Learning](http://img.youtube.com/vi/R5RxPkqXd1g/0.jpg)](http://www.youtube.com/watch?v=R5RxPkqXd1g)
 
